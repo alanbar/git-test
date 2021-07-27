@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hello {name}! restored copy in Super saved</h1>
+	<h1>Hello {name}! restored copy in Super saved/updated</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
 
